@@ -1,6 +1,6 @@
 {
 	"MONGO_HOST": "localhost",
 	"MONGO_PORT": 27017,
-	"MONGO_DB": "wt",
+	"MONGO_DB": "hippie-demo",
 	"PORT": 8003
 }
