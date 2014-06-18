@@ -26,7 +26,7 @@ var token = {
 var db = {
 	timeToCheckExpiredTokens: 3600,
 	type: "mongodb",
-	dbName: "wt"
+	dbName: "hippie-demo"
 };
 
 
